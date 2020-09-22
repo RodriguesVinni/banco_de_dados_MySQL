@@ -14,4 +14,4 @@ create table if not exists consumidores (
 select * from consumidores;
 delete from consumidores where id = 1;
 select * from consumidores;
-#truncate consumidores;--> serve para limpar os somente os dados da tabela e mantendo sua estrutura 
+#truncate consumidores;--> serve para limpar somente os dados da tabela mantendo sua estrutura 
